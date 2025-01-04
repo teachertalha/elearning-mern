@@ -1,5 +1,4 @@
 # Elearning-Platform-Using-MERN
-Software Engineering Course Project
 
 ## Description
 
@@ -61,13 +60,13 @@ This is an Elearning Platform built using the MERN (MongoDB, Express.js, React.j
 1. Clone the repository:
 
 ```bash
-https://github.com/Sai-Chakradhar-Mahendrakar/Elearning-Platform-Using-MERN.git
+https://github.com/teachertalha/elearning-mern.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd Elearning-Platform-Using-MERN
+cd elearning-mern
 ```
 
 3. Install dependencies for the server:
